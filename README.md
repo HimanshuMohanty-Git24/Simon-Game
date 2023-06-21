@@ -1,4 +1,4 @@
-# Simon-Game
+# Simon-Game 🎮
 
 This is a frontend project for the Simon-Game, implemented using HTML, CSS, and JavaScript (jQuery). The Simon-Game is a classic memory game where players have to follow a pattern of colored buttons.
 
